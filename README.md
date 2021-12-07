@@ -1,7 +1,7 @@
 # 주아체(BMJua)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/BMJua/BMJua" alt="BMJua" style="width:300px">
+    <img src="https://webfontworld.github.io/BMJua/BMJua.jpg" alt="BMJua" style="width:300px">
 </a>
 <pre>
 @font-face {
